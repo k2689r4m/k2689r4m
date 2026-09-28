@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Full-Stack Developer
+# Full-Stack Developer
 
 ### Backend · Data · Realtime · Automation · Visualization
 

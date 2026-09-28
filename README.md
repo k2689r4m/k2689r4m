@@ -65,6 +65,7 @@ Frontend부터 Backend, Database 설계, 외부 API 연동,
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 ![TradingView](https://img.shields.io/badge/TradingView-131722?style=flat-square&logo=tradingview&logoColor=white)
+![Bybit](https://img.shields.io/badge/Bybit-F7A600?style=flat-square&logoColor=black)
 ![Binance](https://img.shields.io/badge/Binance-F0B90B?style=flat-square&logo=binance&logoColor=black)
 
 ---

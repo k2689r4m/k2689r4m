@@ -49,9 +49,7 @@ Python · OpenCV · ONNX
 
 ## Projects
 
-### 10. Automated Trading Platform
-
-[GitHub Repository ↗](https://github.com/k2689r4m/10-trading-platform)
+### 10. Automated Trading Platform [GitHub Repository ↗](https://github.com/k2689r4m/10-trading-platform)
 
 TradingView의 전략 신호를 기반으로 주문 실행부터 체결, 포지션 관리, 자동 청산까지 처리하는 자동거래 플랫폼.
 
@@ -65,9 +63,7 @@ TradingView의 전략 신호를 기반으로 주문 실행부터 체결, 포지�
 
 ---
 
-### 09. Wind Farm Monitoring System
-
-[GitHub Repository ↗](https://github.com/k2689r4m/09-windfarm-monitoring)
+### 09. Wind Farm Monitoring System [GitHub Repository ↗](https://github.com/k2689r4m/09-windfarm-monitoring)
 
 풍력발전 설비의 계측·진단 데이터를 3D 모델과 차트로 모니터링하는 시스템.
 
@@ -81,9 +77,7 @@ TradingView의 전략 신호를 기반으로 주문 실행부터 체결, 포지�
 
 ---
 
-### 08. YourPick – Real Estate Risk Analysis
-
-[GitHub Repository ↗](https://github.com/k2689r4m/08-yourpick)
+### 08. YourPick – Real Estate Risk Analysis [GitHub Repository ↗](https://github.com/k2689r4m/08-yourpick)
 
 부동산 관련 데이터를 수집·분석하여 전세 거래 위험요소를 확인하는 플랫폼.
 
@@ -97,9 +91,7 @@ TradingView의 전략 신호를 기반으로 주문 실행부터 체결, 포지�
 
 ---
 
-### 07. Weonus – Commercial Real Estate Platform
-
-[GitHub Repository ↗](https://github.com/k2689r4m/07-weonos)
+### 07. Weonus – Commercial Real Estate Platform [GitHub Repository ↗](https://github.com/k2689r4m/07-weonos)
 
 상업용 부동산 중개 업무를 위한 데이터 기반 플랫폼. 기존 시스템을 분석하고 데이터 마이그레이션을 통해 신규 서비스로 재구축.
 
@@ -113,9 +105,7 @@ TradingView의 전략 신호를 기반으로 주문 실행부터 체결, 포지�
 
 ---
 
-### 06. FITBOA – Fashion Styling Subscription
-
-[GitHub Repository ↗](https://github.com/k2689r4m/06-fitboa)
+### 06. FITBOA – Fashion Styling Subscription [GitHub Repository ↗](https://github.com/k2689r4m/06-fitboa)
 
 체형 기반 패션 스타일링 구독 서비스.
 
@@ -128,9 +118,7 @@ TradingView의 전략 신호를 기반으로 주문 실행부터 체결, 포지�
 
 ---
 
-### 05. HowMuch Homes
-
-[GitHub Repository ↗](https://github.com/k2689r4m/05-howmuch-homes)
+### 05. HowMuch Homes [GitHub Repository ↗](https://github.com/k2689r4m/05-howmuch-homes)
 
 자산과 대출 조건을 기반으로 주택 구매 가능성을 분석하는 서비스.
 
@@ -143,9 +131,7 @@ TradingView의 전략 신호를 기반으로 주문 실행부터 체결, 포지�
 
 ---
 
-### 04. Golfzon Golmap
-
-[GitHub Repository ↗](https://github.com/k2689r4m/04-golfzon-golmap)
+### 04. Golfzon Golmap [GitHub Repository ↗](https://github.com/k2689r4m/04-golfzon-golmap)
 
 골프장 및 코스 정보를 공간 데이터 기반으로 제공하는 지도 서비스.
 
